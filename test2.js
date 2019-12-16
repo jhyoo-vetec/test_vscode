@@ -10,3 +10,5 @@ http.createServer(function (request, response){
 }).listen(8889);
 
 console.log('server start');
+
+console.log('test2');
